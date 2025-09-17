@@ -173,11 +173,13 @@ Deploy Power BI dashboard with drilldowns.
 Integrate predictive modeling for demand forecasting.
 
 📂 Repository Structure
+``` bash
 Sales-Analysis/
 │── EDA_Regional_Sales_Analysis.ipynb   # Jupyter notebook with full EDA  
 │── Regional Sales Dataset.xlsx          # Original dataset  
 │── Sales_data(EDA Exported).csv         # Cleaned dataset  
 │── SALES REPORT.pbix                    # Power BI report (planned)  
-│── README.md                            # Project documentation (this file)  
+│── README.md                            # Project documentation (this file)
+```  
 
 🔥 This project demonstrates how EDA can directly shape business strategy, guiding decisions on pricing, promotions, and market expansion.
